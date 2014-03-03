@@ -49,9 +49,9 @@
   <session-factory>
     <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
     <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
-    <property name="hibernate.connection.url">jdbc:mysql://hslifeserver.hslife.local:3306/clickafacil</property>
+    <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/clickafacil</property>
     <property name="hibernate.connection.username">clickafacil</property>
-    <property name="hibernate.connection.password">clickafacil</property>
+    <property name="hibernate.connection.password">cl1ck4f4c1l</property>
     <property name="hibernate.connection.autoReconnect">true</property>
     <property name="hibernate.format_sql">true</property>
     <mapping class="br.com.hslife.clickafacil.javabeans.Categoria"/>
