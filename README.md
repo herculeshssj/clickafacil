@@ -6,7 +6,7 @@ Catálogo e Pesquisa de Preços
 
 Pesquisa e comparação de preços de produtos entre lojas de um determinado segmento, com cadastro das lojas, produtos, definição de preços pelos lojistas e registro de comentários do internauta sobre o produto. Sistema desenvolvido usando JSP, Servlet e Hibernate.
 
-Requisitos:
+### Requisitos:
 
 * Java JDK SE 6 ou superior;
 * Eclipse Helios 3.6 ou superior;
@@ -16,7 +16,7 @@ Requisitos:
 * DBDesigner 4;
 * Windows ou Linux, qualquer versão capaz de rodar os softwares acima.
 
-Links de download:
+### Links de download:
 
 * *Java JDK SE 6*: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 * *Eclipse Helios*: http://www.eclipse.org/downloads
@@ -25,7 +25,7 @@ Links de download:
 * *DBDesigner*: http://www.fabforce.net/dbdesigner4/downloads.php
 * *astah Community*: http://astah.net/editions/community
 
-Configuração do MySQL:
+### Configuração do MySQL:
 
 Após instalar o MySQL, acesse via console ou usando uma ferramenta gráfica de administração e execute os seguintes comandos:
 
