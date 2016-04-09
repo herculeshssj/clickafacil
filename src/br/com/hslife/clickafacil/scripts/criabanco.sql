@@ -42,6 +42,7 @@
 
  ***/
 
+/* Exclusão das tabelas. Executar caso a base já exista. Rodar somente em desenvolvimento
 alter table categoria 
         drop 
         foreign key FK5D54E133876F4A32;
@@ -105,6 +106,9 @@ alter table categoria
     drop table if exists preco;
 
     drop table if exists produto;
+*/
+
+/* Criação das tabelas */
 
     create table categoria (
         idCategoria integer not null auto_increment,

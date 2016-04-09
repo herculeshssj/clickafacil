@@ -37,3 +37,5 @@ create database clickafacil;
 create user 'clickafacil'@'localhost' identified by 'cl1ck4f4c1l';
 grant all privileges on clickafacil.* to 'clickafacil'@'localhost' with grant option;
 ```
+
+Dentro do projeto, no pacote **br.com.hslife.clickafacil.scripts**, execute o arquivo **criabanco.sql** para realizar a criação das tabelas da base.
